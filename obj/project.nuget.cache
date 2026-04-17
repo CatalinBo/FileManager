@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ACYR86BhAPQ=",
+  "success": true,
+  "projectFilePath": "D:\\Personal Projects\\FileManager\\FileManager\\FileManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\catal\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\catal\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\catal\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\catal\\.nuget\\packages\\system.io.abstractions\\20.0.15\\system.io.abstractions.20.0.15.nupkg.sha512",
+    "C:\\Users\\catal\\.nuget\\packages\\system.io.abstractions.testinghelpers\\20.0.15\\system.io.abstractions.testinghelpers.20.0.15.nupkg.sha512",
+    "C:\\Users\\catal\\.nuget\\packages\\testableio.system.io.abstractions\\20.0.15\\testableio.system.io.abstractions.20.0.15.nupkg.sha512",
+    "C:\\Users\\catal\\.nuget\\packages\\testableio.system.io.abstractions.testinghelpers\\20.0.15\\testableio.system.io.abstractions.testinghelpers.20.0.15.nupkg.sha512",
+    "C:\\Users\\catal\\.nuget\\packages\\testableio.system.io.abstractions.wrappers\\20.0.15\\testableio.system.io.abstractions.wrappers.20.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

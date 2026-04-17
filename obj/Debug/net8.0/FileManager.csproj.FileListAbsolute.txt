@@ -1,0 +1,53 @@
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\FileManager.exe
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\FileManager.deps.json
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\FileManager.runtimeconfig.json
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\FileManager.dll
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\FileManager.pdb
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\Castle.Core.dll
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\Moq.dll
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\System.IO.Abstractions.dll
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\System.IO.Abstractions.TestingHelpers.dll
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.dll
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.TestingHelpers.dll
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.Wrappers.dll
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\obj\Debug\net8.0\FileManager.csproj.AssemblyReference.cache
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\obj\Debug\net8.0\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\obj\Debug\net8.0\FileManager.AssemblyInfoInputs.cache
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\obj\Debug\net8.0\FileManager.AssemblyInfo.cs
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\obj\Debug\net8.0\FileManager.csproj.CoreCompileInputs.cache
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\obj\Debug\net8.0\FileManager.sourcelink.json
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\obj\Debug\net8.0\FileMana.0F99248D.Up2Date
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\obj\Debug\net8.0\FileManager.dll
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\obj\Debug\net8.0\refint\FileManager.dll
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\obj\Debug\net8.0\FileManager.pdb
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\obj\Debug\net8.0\FileManager.genruntimeconfig.cache
+D:\Diverse\JuniorMind\GitHub\JuniorMind-2ndModule\FileManager\FileManager\obj\Debug\net8.0\ref\FileManager.dll
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\FileManager.exe
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\FileManager.deps.json
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\FileManager.runtimeconfig.json
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\FileManager.dll
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\FileManager.pdb
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\Castle.Core.dll
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\Moq.dll
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\System.IO.Abstractions.dll
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\System.IO.Abstractions.TestingHelpers.dll
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.dll
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.TestingHelpers.dll
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.Wrappers.dll
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Personal Projects\FileManager\FileManager\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Personal Projects\FileManager\FileManager\obj\Debug\net8.0\FileManager.csproj.AssemblyReference.cache
+D:\Personal Projects\FileManager\FileManager\obj\Debug\net8.0\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\FileManager\FileManager\obj\Debug\net8.0\FileManager.AssemblyInfoInputs.cache
+D:\Personal Projects\FileManager\FileManager\obj\Debug\net8.0\FileManager.AssemblyInfo.cs
+D:\Personal Projects\FileManager\FileManager\obj\Debug\net8.0\FileManager.csproj.CoreCompileInputs.cache
+D:\Personal Projects\FileManager\FileManager\obj\Debug\net8.0\FileMana.0F99248D.Up2Date
+D:\Personal Projects\FileManager\FileManager\obj\Debug\net8.0\FileManager.dll
+D:\Personal Projects\FileManager\FileManager\obj\Debug\net8.0\refint\FileManager.dll
+D:\Personal Projects\FileManager\FileManager\obj\Debug\net8.0\FileManager.pdb
+D:\Personal Projects\FileManager\FileManager\obj\Debug\net8.0\FileManager.genruntimeconfig.cache
+D:\Personal Projects\FileManager\FileManager\obj\Debug\net8.0\ref\FileManager.dll
